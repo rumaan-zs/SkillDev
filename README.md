@@ -1,2 +1,2 @@
 # SkillDev
-#These are the codes taht were learned in class by Asai Sir!!!
+#These are the codes that were learned in class by Asai Sir!!!
